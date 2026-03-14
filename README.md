@@ -4,7 +4,7 @@
 - Actividad: UD05.1.: XSD + RegEx
 ---
 # Descripción de la actividad
-Esta actividad trata sobre la creacion de un archivo XML que contiene informacion de varios usuarios y un XSD que valida que los datos sean correctos. Su objetivo es hacer que se cumpla el formato correcto mediante restricciones y expresiones regulares.
+- Esta actividad trata sobre la creacion de un archivo XML que contiene informacion de varios usuarios y un XSD que valida que los datos sean correctos. Su objetivo es hacer que se cumpla el formato correcto mediante restricciones y expresiones regulares.
 ---
 # Explicación
 - Correo electronico: Usa esta expresion ^\S+@\S+\.\S+$. Que significa que se puede introducir uno o mas caracteres que no sean espacios luego la (usuario) @ volvemos otra vez a decir que se puede introducir uno o mas caracteres que no sean espacios (gmail) seguido va el . y nuevamente se puede introducir uno o mas caracteres que no sean espacios (com)
