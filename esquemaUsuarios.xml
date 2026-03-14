@@ -1,0 +1,31 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<?xml-model href="esquemaUsuarios.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<esquemaUsuarios>
+    <usuario>
+        <nombre>Daniel</nombre>
+        <apellido>Jimenez</apellido>
+        <correo>danielj@gmail.com</correo>
+        <NumeroTelefono>154678634</NumeroTelefono>
+        <CodigoPostal>51006</CodigoPostal>
+        <NombreUsuario>danielj23</NombreUsuario>
+        <contraseña>123adbdw</contraseña>
+    </usuario>
+    <usuario>
+        <nombre>Pedro</nombre>
+        <apellido>Lopez</apellido>
+        <correo>pedrol@hopmail.es</correo>
+        <NumeroTelefono>954678634</NumeroTelefono>
+        <CodigoPostal>41109</CodigoPostal>
+        <NombreUsuario>pedrol21</NombreUsuario>
+        <contraseña>hjadw8d1</contraseña>
+    </usuario>
+    <usuario>
+        <nombre>Miguel</nombre>
+        <apellido>Pérez</apellido>
+        <correo>miguelp@hotmail.org</correo>
+        <NumeroTelefono>9254678634</NumeroTelefono>
+        <CodigoPostal>41010</CodigoPostal>
+        <NombreUsuario>miguelp</NombreUsuario>
+        <contraseña>KuahduiawA8</contraseña>
+    </usuario>
+</esquemaUsuarios>
