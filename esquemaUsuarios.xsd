@@ -11,14 +11,14 @@
                             <xs:element name="correo">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:string">
-                                        <xs:pattern value="^\S+@\S+\.\S+$"/>
+                                        <xs:pattern value="\S+@\S+\.\S+"/>
                                     </xs:restriction>
                                 </xs:simpleType>
                             </xs:element>
                             <xs:element name="NumeroTelefono">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:string">
-                                        <xs:pattern value="^[0-9]{3}[\s][0-9]{3}[\s][0-9]{3}$"/>
+                                        <xs:pattern value="[0-9]{3}[\s]?[0-9]{3}[\s]?[0-9]{3}"/>
                                     </xs:restriction>
                                 </xs:simpleType>
                             </xs:element>

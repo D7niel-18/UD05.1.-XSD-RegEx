@@ -1,12 +1,13 @@
 <?xml version= "1.0" encoding= "UTF-8"?>
 <?xml-model href="esquemaUsuarios.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<!-- Autor: Daniel Jimenez Ramirez -->
 <esquemaUsuarios>
     <usuario>
         <nombre>Daniel</nombre>
         <apellido>Jimenez</apellido>
         <correo>danielj@gmail.com</correo>
-        <NumeroTelefono>154678634</NumeroTelefono>
-        <CodigoPostal>51006</CodigoPostal>
+        <NumeroTelefono>123 123 132</NumeroTelefono>
+        <CodigoPostal>41008</CodigoPostal>
         <NombreUsuario>danielj23</NombreUsuario>
         <contraseña>123adbdw</contraseña>
     </usuario>
@@ -22,8 +23,8 @@
     <usuario>
         <nombre>Miguel</nombre>
         <apellido>Pérez</apellido>
-        <correo>miguelp@hotmail.org</correo>
-        <NumeroTelefono>9254678634</NumeroTelefono>
+        <correo>miguelp@hotmail.com</correo>
+        <NumeroTelefono>681314555</NumeroTelefono>
         <CodigoPostal>41010</CodigoPostal>
         <NombreUsuario>miguelp</NombreUsuario>
         <contraseña>KuahduiawA8</contraseña>
